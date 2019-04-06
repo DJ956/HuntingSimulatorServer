@@ -1,0 +1,11 @@
+H:\Documents\GitHub\HuntingSimulatorServer\HuntingSimulatorServer\HuntingSimulatorServer\obj\Debug\netcoreapp2.1\HuntingSimulatorServer.csprojAssemblyReference.cache
+H:\Documents\GitHub\HuntingSimulatorServer\HuntingSimulatorServer\HuntingSimulatorServer\obj\Debug\netcoreapp2.1\HuntingSimulatorServer.csproj.CoreCompileInputs.cache
+H:\Documents\GitHub\HuntingSimulatorServer\HuntingSimulatorServer\HuntingSimulatorServer\obj\Debug\netcoreapp2.1\HuntingSimulatorServer.AssemblyInfoInputs.cache
+H:\Documents\GitHub\HuntingSimulatorServer\HuntingSimulatorServer\HuntingSimulatorServer\obj\Debug\netcoreapp2.1\HuntingSimulatorServer.AssemblyInfo.cs
+H:\Documents\GitHub\HuntingSimulatorServer\HuntingSimulatorServer\HuntingSimulatorServer\bin\Debug\netcoreapp2.1\HuntingSimulatorServer.deps.json
+H:\Documents\GitHub\HuntingSimulatorServer\HuntingSimulatorServer\HuntingSimulatorServer\bin\Debug\netcoreapp2.1\HuntingSimulatorServer.runtimeconfig.json
+H:\Documents\GitHub\HuntingSimulatorServer\HuntingSimulatorServer\HuntingSimulatorServer\bin\Debug\netcoreapp2.1\HuntingSimulatorServer.runtimeconfig.dev.json
+H:\Documents\GitHub\HuntingSimulatorServer\HuntingSimulatorServer\HuntingSimulatorServer\bin\Debug\netcoreapp2.1\HuntingSimulatorServer.dll
+H:\Documents\GitHub\HuntingSimulatorServer\HuntingSimulatorServer\HuntingSimulatorServer\bin\Debug\netcoreapp2.1\HuntingSimulatorServer.pdb
+H:\Documents\GitHub\HuntingSimulatorServer\HuntingSimulatorServer\HuntingSimulatorServer\obj\Debug\netcoreapp2.1\HuntingSimulatorServer.dll
+H:\Documents\GitHub\HuntingSimulatorServer\HuntingSimulatorServer\HuntingSimulatorServer\obj\Debug\netcoreapp2.1\HuntingSimulatorServer.pdb
